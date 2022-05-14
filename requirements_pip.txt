@@ -166,6 +166,7 @@ querystring-parser==1.2.4
 regex @ file:///D:/bld/regex_1650840129060/work
 requests @ file:///opt/conda/conda-bld/requests_1641824580448/work
 retrying==1.3.3
+saspy @ file:///home/conda/feedstock_root/build_artifacts/saspy_1648050842097/work
 scikit-learn @ file:///D:/bld/scikit-learn_1640464383253/work
 scikit-optimize @ file:///home/conda/feedstock_root/build_artifacts/scikit-optimize_1639544373814/work
 scipy @ file:///C:/bld/scipy_1644357599835/work
